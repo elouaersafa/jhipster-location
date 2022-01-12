@@ -1,0 +1,15 @@
+
+entity Region {
+	regionName String
+}
+
+entity Country {
+	countryName String
+}
+
+
+
+entity Department {
+	departmentName String required
+}
+
